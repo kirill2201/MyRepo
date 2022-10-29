@@ -4,3 +4,4 @@ Herson
 Donetsk
 Lugansk
 Kursk
+Kirov
